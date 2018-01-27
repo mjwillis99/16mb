@@ -1,2 +1,4 @@
 # 16mb
-general site
+general site{
+mjwillis99.16mb.com
+}
